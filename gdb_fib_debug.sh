@@ -1,7 +1,7 @@
 #!/bin/bash
 # by Thibaut LOMBARD https://github.com/Lombard-Web-Services
 # Script: gdb_fib_debug.sh
-# Purpose: Run a predefined set of GDB commands and output to a file
+# Purpose: Run a predefined set of GDB commands and output to a file, for debugging purpose ;)
 
 # Create a temporary file to hold GDB commands
 GDB_SCRIPT=$(mktemp)
