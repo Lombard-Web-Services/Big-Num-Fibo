@@ -127,4 +127,4 @@ For more details, see the LICENSE file.
 Thibaut LOMBARD  
 GitHub: [https://github.com/Lombard-Web-Services](https://github.com/Lombard-Web-Services)  
 Project Repository: [Big-Num-Fibo](https://github.com/Lombard-Web-Services/Big-Num-Fibo)  
-Alias: [@lombardweb](https://github.com/lombardweb)
+Alias: [@lombardweb](https://x.com/lombardweb)
