@@ -1,4 +1,4 @@
-# 🔢 Fibonacci Bignum Generator in x86_64 Assembly ✨
+# 🔢 Fibonacci Bignum Generator in x86_64 Assembly 
 
 This project generates arbitrarily large Fibonacci numbers using hand-written arbitrary-precision arithmetic in pure x86_64 NASM assembly, with direct Linux syscall I/O — no standard library required.
 
@@ -6,7 +6,7 @@ It is designed to demonstrate low-level big number computation, efficient output
 
 
 
-## 🚀 Features 🌟
+## 🚀 Features 
 
 * Manual arbitrary-precision addition using byte buffers (up to 256-byte integers)
 
@@ -32,7 +32,7 @@ It is designed to demonstrate low-level big number computation, efficient output
 
 
 
-## 🔧 Build Instructions 🛠️
+## 🔧 Build Instructions 
 
 ### Compile C Wrapper
 
@@ -64,7 +64,7 @@ cat build.log
 
 
 
-## ▶️ Usage 📖
+## ▶️ Usage 
 
 ### Basic Usage
 
@@ -102,7 +102,7 @@ cat build.log
 
 
 
-## 🧪 Debugging Example 🔍
+## 🧪 Debugging Example 
 
 Run with debug output:
 
@@ -130,7 +130,7 @@ You can use this output for regression testing or setting GDB breakpoints.
 
 
 
-## 📄 Output Format 📝
+## 📄 Output Format 
 
 Each Fibonacci number is printed on its own line in decimal:
 
@@ -151,7 +151,7 @@ The output stops exactly when the size limit is reached, or per-file limits are 
 
 
 
-## 🧠 Domain 💡
+## 🧠 Domain 
 
 This program is intended for:
 
@@ -165,7 +165,7 @@ This program is intended for:
 
 
 
-## 📜 License & Author 🧑‍💻
+## 📜 License & Author 
 
 **License:** CC BY-NC-ND
 ![Logo de la licence CC BY-NC-ND](CC_BY-NC-ND.png)
@@ -180,7 +180,7 @@ This program is intended for:
 
 
 
-## ⚖️ License Details 📚
+## ⚖️ License Details 
 
 This work is licensed under the **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License**. To view a copy of this license, visit [http://creativecommons.org/licenses/by-nc-nd/4.0/](http://creativecommons.org/licenses/by-nc-nd/4.0/) or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
