@@ -167,7 +167,7 @@ This program is intended for:
 
 ## 📜 License & Author 
 
-**License:** CC BY-NC-ND
+**License:** 
 ![Logo de la licence CC BY-NC-ND](CC_BY-NC-ND.png)
 
 **Author:** Thibaut LOMBARD
